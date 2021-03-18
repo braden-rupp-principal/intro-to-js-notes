@@ -3,7 +3,7 @@
 Review the concepts in [index.test.js](https://github.com/braden-rupp-principal/intro-to-js-notes/blob/main/src/index.test.js)
 
 
-## Prequisites
+## Prerequisites
 
 1. [nodejs](https://nodejs.org/en/)
 
