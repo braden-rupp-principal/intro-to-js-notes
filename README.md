@@ -1,5 +1,7 @@
 # intro-to-js-notes
 
+Review the concepts in [index.test.js](https://github.com/braden-rupp-principal/intro-to-js-notes/blob/main/src/index.test.js)
+
 
 ## Prequisites
 
